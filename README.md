@@ -1,2 +1,2 @@
-# AI_ML_CU
+# AI-ML
 For assignments , homework and projects 
