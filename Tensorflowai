@@ -1,0 +1,33 @@
+import tensorflow as tf
+import numpy as np
+
+# Generate synthetic linear data: y = mX + c + noise
+true_slope = 8.0
+true_intercept = 12.0
+
+X = np.linspace(0, 15, 200)
+noise = np.random.normal(0, 3, size=X.shape)
+y = true_slope * X + true_intercept + noise
+
+# Build a simple linear model using Keras
+model = tf.keras.Sequential([
+    tf.keras.layers.Dense(units=1, input_shape=(1,))
+])
+
+# Compile with optimizer and loss function
+model.compile(optimizer='adam', loss='mse')
+
+# Train the model
+history = model.fit(X, y, epochs=100, verbose=0)
+
+# Extract learned parameters
+weight, bias = model.layers[0].get_weights()
+
+print(f"True slope: {true_slope:.2f}, True intercept: {true_intercept:.2f}")
+print(f"Model learned slope: {weight[0][0]:.2f}, Model learned intercept: {bias[0]:.2f}")
+
+# Test with a new input
+x_test = np.array([[20.0]])
+y_pred = model.predict(x_test, verbose=0)
+
+print(f"Prediction for x={x_test[0][0]} → y={y_pred[0][0]:.2f}")
