@@ -1,0 +1,15 @@
+LOCATIONS = [
+    {"name": "Main Gate", "lat": 13.221306, "lng": 77.755056},
+    {"name": "Admin Block", "lat": 13.222194, "lng": 77.755250},
+    {"name": "Academic Block 1", "lat": 13.223333, "lng": 77.754917},
+    {"name": "Academic Block 2", "lat": 13.223389, "lng": 77.756056},
+    {"name": "Academic Block 3", "lat": 13.222389, "lng": 77.756278},
+    {"name": "Hostel", "lat": 13.224528, "lng": 77.758056},
+    {"name": "Food Court", "lat": 13.224861, "lng": 77.757222},
+    {"name": "Sports Complex", "lat": 13.228417, "lng": 77.758278},
+    {"name": "Central Junction", "lat": 13.222778, "lng": 77.755611},
+    {"name": "Laundry", "lat": 13.224528, "lng": 77.757056},
+    {"name": "Mini Mart", "lat": 13.224556, "lng": 77.758028},
+    {"name": "Generator Room", "lat": 13.223210, "lng": 77.757350},
+    {"name": "Small Junction", "lat": 13.224850, "lng": 77.758410},
+]

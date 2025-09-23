@@ -1,0 +1,3 @@
+# Frontend requirements
+streamlit
+requests
