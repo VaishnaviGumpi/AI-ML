@@ -1,0 +1,553 @@
+Year,home_team,away_team,home_score,home_xg,home_penalty,away_score,away_xg,away_penalty,Round
+2022,Argentina,France,3,3.3,4,3,2.2,2,Final
+2022,Croatia,Morocco,2,0.7,,1,1.2,,Third-place match
+2022,France,Morocco,2,2.0,,0,0.9,,Semi-finals
+2022,Argentina,Croatia,3,2.3,,0,0.5,,Semi-finals
+2022,Morocco,Portugal,1,1.4,,0,0.9,,Quarter-finals
+2022,England,France,1,2.4,,2,0.9,,Quarter-finals
+2022,Croatia,Brazil,1,0.6,4,1,2.5,2,Quarter-finals
+2022,Netherlands,Argentina,2,0.6,3,2,1.9,4,Quarter-finals
+2022,Morocco,Spain,0,0.7,3,0,1.0,0,Round of 16
+2022,Portugal,Switzerland,6,2.3,,1,1.2,,Round of 16
+2022,Japan,Croatia,1,1.2,1,1,1.4,3,Round of 16
+2022,Brazil,Korea Republic,4,3.6,,1,0.5,,Round of 16
+2022,France,Poland,3,1.4,,1,1.7,,Round of 16
+2022,England,Senegal,3,1.0,,0,0.8,,Round of 16
+2022,Netherlands,United States,3,1.7,,1,1.5,,Round of 16
+2022,Argentina,Australia,2,1.6,,1,0.6,,Round of 16
+2022,Korea Republic,Portugal,2,1.7,,1,1.3,,Group stage
+2022,Ghana,Uruguay,0,1.6,,2,1.8,,Group stage
+2022,Cameroon,Brazil,1,0.5,,0,2.5,,Group stage
+2022,Serbia,Switzerland,2,1.3,,3,2.7,,Group stage
+2022,Canada,Morocco,1,1.4,,2,0.5,,Group stage
+2022,Croatia,Belgium,0,0.7,,0,3.0,,Group stage
+2022,Costa Rica,Germany,2,1.3,,4,5.7,,Group stage
+2022,Japan,Spain,2,1.4,,1,1.0,,Group stage
+2022,Australia,Denmark,1,0.6,,0,0.6,,Group stage
+2022,Tunisia,France,1,0.5,,0,0.8,,Group stage
+2022,Saudi Arabia,Mexico,1,1.1,,2,2.3,,Group stage
+2022,Poland,Argentina,0,0.3,,2,3.5,,Group stage
+2022,Ecuador,Senegal,1,0.9,,2,2.1,,Group stage
+2022,Netherlands,Qatar,2,1.6,,0,0.1,,Group stage
+2022,IR Iran,United States,0,0.4,,1,1.2,,Group stage
+2022,Wales,England,0,0.3,,3,2.4,,Group stage
+2022,Cameroon,Serbia,3,2.2,,3,1.9,,Group stage
+2022,Korea Republic,Ghana,2,1.8,,3,1.6,,Group stage
+2022,Brazil,Switzerland,1,1.0,,0,0.3,,Group stage
+2022,Portugal,Uruguay,2,1.3,,0,1.3,,Group stage
+2022,Japan,Costa Rica,0,0.9,,1,0.1,,Group stage
+2022,Belgium,Morocco,0,1.0,,2,1.5,,Group stage
+2022,Croatia,Canada,4,2.6,,1,0.4,,Group stage
+2022,Spain,Germany,1,0.6,,1,1.3,,Group stage
+2022,Tunisia,Australia,0,0.9,,1,0.6,,Group stage
+2022,Poland,Saudi Arabia,2,1.6,,0,1.7,,Group stage
+2022,France,Denmark,2,2.4,,1,0.6,,Group stage
+2022,Argentina,Mexico,2,0.3,,0,0.3,,Group stage
+2022,Wales,IR Iran,0,0.9,,2,1.4,,Group stage
+2022,Qatar,Senegal,1,1.0,,3,0.8,,Group stage
+2022,Netherlands,Ecuador,1,0.1,,1,1.7,,Group stage
+2022,England,United States,0,0.8,,0,0.6,,Group stage
+2022,Switzerland,Cameroon,1,1.4,,0,0.7,,Group stage
+2022,Uruguay,Korea Republic,0,0.6,,0,0.6,,Group stage
+2022,Portugal,Ghana,3,2.0,,2,0.9,,Group stage
+2022,Brazil,Serbia,2,2.4,,0,0.2,,Group stage
+2022,Morocco,Croatia,0,0.4,,0,0.5,,Group stage
+2022,Germany,Japan,1,3.1,,2,1.5,,Group stage
+2022,Spain,Costa Rica,7,3.5,,0,0.0,,Group stage
+2022,Belgium,Canada,1,0.8,,0,2.4,,Group stage
+2022,Argentina,Saudi Arabia,1,2.2,,2,0.1,,Group stage
+2022,Denmark,Tunisia,0,1.4,,0,0.9,,Group stage
+2022,Mexico,Poland,0,0.7,,0,0.9,,Group stage
+2022,France,Australia,4,4.0,,1,0.5,,Group stage
+2022,England,IR Iran,6,2.1,,2,1.4,,Group stage
+2022,Senegal,Netherlands,0,0.9,,2,0.7,,Group stage
+2022,United States,Wales,1,0.8,,1,1.5,,Group stage
+2022,Qatar,Ecuador,0,0.3,,2,1.2,,Group stage
+2018,France,Croatia,4,1.1,,2,1.1,,Final
+2018,Belgium,England,2,1.5,,0,1.0,,Third-place match
+2018,Croatia,England,2,1.7,,1,0.6,,Semi-finals
+2018,France,Belgium,1,1.7,,0,0.4,,Semi-finals
+2018,Sweden,England,0,0.5,,2,1.0,,Quarter-finals
+2018,Russia,Croatia,2,1.0,3,2,1.7,4,Quarter-finals
+2018,Uruguay,France,0,0.9,,2,0.5,,Quarter-finals
+2018,Brazil,Belgium,1,2.8,,2,0.5,,Quarter-finals
+2018,Sweden,Switzerland,1,1.3,,0,0.7,,Round of 16
+2018,Colombia,England,1,0.6,3,1,2.1,4,Round of 16
+2018,Brazil,Mexico,2,2.7,,0,0.7,,Round of 16
+2018,Belgium,Japan,3,2.5,,2,0.7,,Round of 16
+2018,Spain,Russia,1,1.8,3,1,1.0,4,Round of 16
+2018,Croatia,Denmark,1,2.5,3,1,0.9,2,Round of 16
+2018,France,Argentina,4,2.2,,3,0.8,,Round of 16
+2018,Uruguay,Portugal,2,0.6,,1,1.0,,Round of 16
+2018,Japan,Poland,0,0.7,,1,1.4,,Group stage
+2018,Senegal,Colombia,0,0.5,,1,0.3,,Group stage
+2018,England,Belgium,0,0.9,,1,1.3,,Group stage
+2018,Panama,Tunisia,1,0.6,,2,2.1,,Group stage
+2018,Korea Republic,Germany,2,1.7,,0,2.7,,Group stage
+2018,Mexico,Sweden,0,1.4,,3,2.4,,Group stage
+2018,Switzerland,Costa Rica,2,1.4,,2,1.5,,Group stage
+2018,Serbia,Brazil,0,0.8,,2,1.4,,Group stage
+2018,Australia,Peru,0,0.9,,2,0.2,,Group stage
+2018,Denmark,France,0,0.2,,0,0.4,,Group stage
+2018,Iceland,Croatia,1,2.1,,2,0.7,,Group stage
+2018,Nigeria,Argentina,1,1.4,,2,0.9,,Group stage
+2018,Saudi Arabia,Egypt,2,2.6,,1,0.8,,Group stage
+2018,Uruguay,Russia,3,2.4,,0,0.1,,Group stage
+2018,Spain,Morocco,2,2.9,,2,1.2,,Group stage
+2018,IR Iran,Portugal,1,1.4,,1,1.3,,Group stage
+2018,England,Panama,6,2.8,,1,1.1,,Group stage
+2018,Japan,Senegal,2,0.9,,2,1.4,,Group stage
+2018,Poland,Colombia,0,1.1,,3,2.1,,Group stage
+2018,Belgium,Tunisia,5,5.2,,2,1.1,,Group stage
+2018,Korea Republic,Mexico,1,0.9,,2,1.9,,Group stage
+2018,Germany,Sweden,2,1.4,,1,0.9,,Group stage
+2018,Brazil,Costa Rica,2,2.6,,0,0.1,,Group stage
+2018,Nigeria,Iceland,2,0.9,,0,1.3,,Group stage
+2018,Serbia,Switzerland,1,1.5,,2,2.1,,Group stage
+2018,Denmark,Australia,1,0.8,,1,1.3,,Group stage
+2018,France,Peru,1,2.0,,0,0.4,,Group stage
+2018,Argentina,Croatia,0,1.3,,3,1.9,,Group stage
+2018,Portugal,Morocco,1,1.2,,0,0.9,,Group stage
+2018,Uruguay,Saudi Arabia,1,1.7,,0,0.3,,Group stage
+2018,IR Iran,Spain,0,0.7,,1,1.9,,Group stage
+2018,Colombia,Japan,1,1.0,,2,2.0,,Group stage
+2018,Poland,Senegal,1,0.8,,2,1.0,,Group stage
+2018,Russia,Egypt,3,1.2,,1,1.4,,Group stage
+2018,Sweden,Korea Republic,1,2.3,,0,0.3,,Group stage
+2018,Belgium,Panama,3,2.0,,0,0.5,,Group stage
+2018,Tunisia,England,1,1.0,,2,2.8,,Group stage
+2018,Costa Rica,Serbia,0,0.9,,1,0.9,,Group stage
+2018,Germany,Mexico,0,1.4,,1,1.3,,Group stage
+2018,Brazil,Switzerland,1,2.2,,1,0.9,,Group stage
+2018,France,Australia,2,1.3,,1,1.0,,Group stage
+2018,Argentina,Iceland,1,1.9,,1,1.0,,Group stage
+2018,Peru,Denmark,0,1.7,,1,1.0,,Group stage
+2018,Croatia,Nigeria,2,1.5,,0,0.7,,Group stage
+2018,Egypt,Uruguay,0,0.3,,1,1.6,,Group stage
+2018,Morocco,IR Iran,0,0.7,,1,1.0,,Group stage
+2018,Portugal,Spain,3,1.2,,3,1.6,,Group stage
+2014,Russia,Saudi Arabia,5,1.7,,0,0.2,,Group stage
+2014,Germany,Argentina,1,,,0,,,Final
+2014,Brazil,Netherlands,0,,,3,,,Third-place match
+2014,Netherlands,Argentina,0,,2,0,,4,Semi-finals
+2014,Brazil,Germany,1,,,7,,,Semi-finals
+2014,Argentina,Belgium,1,,,0,,,Quarter-finals
+2014,Netherlands,Costa Rica,0,,4,0,,3,Quarter-finals
+2014,France,Germany,0,,,1,,,Quarter-finals
+2014,Brazil,Colombia,2,,,1,,,Quarter-finals
+2014,Argentina,Switzerland,1,,,0,,,Round of 16
+2014,Belgium,United States,2,,,1,,,Round of 16
+2014,France,Nigeria,2,,,0,,,Round of 16
+2014,Germany,Algeria,2,,,1,,,Round of 16
+2014,Netherlands,Mexico,2,,,1,,,Round of 16
+2014,Costa Rica,Greece,1,,5,1,,3,Round of 16
+2014,Brazil,Chile,1,,3,1,,2,Round of 16
+2014,Colombia,Uruguay,2,,,0,,,Round of 16
+2014,United States,Germany,0,,,1,,,Group stage
+2014,Portugal,Ghana,2,,,1,,,Group stage
+2014,Korea Republic,Belgium,0,,,1,,,Group stage
+2014,Algeria,Russia,1,,,1,,,Group stage
+2014,Bosnia and Herzegovina,IR Iran,3,,,1,,,Group stage
+2014,Nigeria,Argentina,2,,,3,,,Group stage
+2014,Honduras,Switzerland,0,,,3,,,Group stage
+2014,Ecuador,France,0,,,0,,,Group stage
+2014,Costa Rica,England,0,,,0,,,Group stage
+2014,Italy,Uruguay,0,,,1,,,Group stage
+2014,Japan,Colombia,1,,,4,,,Group stage
+2014,Greece,Côte d'Ivoire,2,,,1,,,Group stage
+2014,Australia,Spain,0,,,3,,,Group stage
+2014,Netherlands,Chile,2,,,0,,,Group stage
+2014,Croatia,Mexico,1,,,3,,,Group stage
+2014,Cameroon,Brazil,1,,,4,,,Group stage
+2014,Belgium,Russia,1,,,0,,,Group stage
+2014,Korea Republic,Algeria,2,,,4,,,Group stage
+2014,United States,Portugal,2,,,2,,,Group stage
+2014,Argentina,IR Iran,1,,,0,,,Group stage
+2014,Germany,Ghana,2,,,2,,,Group stage
+2014,Nigeria,Bosnia and Herzegovina,1,,,0,,,Group stage
+2014,Italy,Costa Rica,0,,,1,,,Group stage
+2014,Switzerland,France,2,,,5,,,Group stage
+2014,Honduras,Ecuador,1,,,2,,,Group stage
+2014,Colombia,Côte d'Ivoire,2,,,1,,,Group stage
+2014,Uruguay,England,2,,,1,,,Group stage
+2014,Japan,Greece,0,,,0,,,Group stage
+2014,Australia,Netherlands,2,,,3,,,Group stage
+2014,Spain,Chile,0,,,2,,,Group stage
+2014,Cameroon,Croatia,0,,,4,,,Group stage
+2014,Belgium,Algeria,2,,,1,,,Group stage
+2014,Brazil,Mexico,0,,,0,,,Group stage
+2014,Russia,Korea Republic,1,,,1,,,Group stage
+2014,Germany,Portugal,4,,,0,,,Group stage
+2014,IR Iran,Nigeria,0,,,0,,,Group stage
+2014,Ghana,United States,1,,,2,,,Group stage
+2014,Switzerland,Ecuador,2,,,1,,,Group stage
+2014,France,Honduras,3,,,0,,,Group stage
+2014,Argentina,Bosnia and Herzegovina,2,,,1,,,Group stage
+2014,Colombia,Greece,3,,,0,,,Group stage
+2014,Uruguay,Costa Rica,1,,,3,,,Group stage
+2014,England,Italy,1,,,2,,,Group stage
+2014,Côte d'Ivoire,Japan,2,,,1,,,Group stage
+2014,Mexico,Cameroon,1,,,0,,,Group stage
+2014,Spain,Netherlands,1,,,5,,,Group stage
+2014,Chile,Australia,3,,,1,,,Group stage
+2014,Brazil,Croatia,3,,,1,,,Group stage
+2010,Netherlands,Spain,0,,,1,,,Final
+2010,Uruguay,Germany,2,,,3,,,Third-place match
+2010,Germany,Spain,0,,,1,,,Semi-finals
+2010,Uruguay,Netherlands,2,,,3,,,Semi-finals
+2010,Argentina,Germany,0,,,4,,,Quarter-finals
+2010,Paraguay,Spain,0,,,1,,,Quarter-finals
+2010,Netherlands,Brazil,2,,,1,,,Quarter-finals
+2010,Uruguay,Ghana,1,,4,1,,2,Quarter-finals
+2010,Paraguay,Japan,0,,5,0,,3,Round of 16
+2010,Spain,Portugal,1,,,0,,,Round of 16
+2010,Netherlands,Slovakia,2,,,1,,,Round of 16
+2010,Brazil,Chile,3,,,0,,,Round of 16
+2010,Germany,England,4,,,1,,,Round of 16
+2010,Argentina,Mexico,3,,,1,,,Round of 16
+2010,Uruguay,Korea Republic,2,,,1,,,Round of 16
+2010,United States,Ghana,1,,,2,,,Round of 16
+2010,Portugal,Brazil,0,,,0,,,Group stage
+2010,Korea DPR,Côte d'Ivoire,0,,,3,,,Group stage
+2010,Chile,Spain,1,,,2,,,Group stage
+2010,Switzerland,Honduras,0,,,0,,,Group stage
+2010,Paraguay,New Zealand,0,,,0,,,Group stage
+2010,Slovakia,Italy,3,,,2,,,Group stage
+2010,Denmark,Japan,1,,,3,,,Group stage
+2010,Cameroon,Netherlands,1,,,2,,,Group stage
+2010,Slovenia,England,0,,,1,,,Group stage
+2010,United States,Algeria,1,,,0,,,Group stage
+2010,Ghana,Germany,0,,,1,,,Group stage
+2010,Australia,Serbia,2,,,1,,,Group stage
+2010,Mexico,Uruguay,0,,,1,,,Group stage
+2010,France,South Africa,1,,,2,,,Group stage
+2010,Nigeria,Korea Republic,2,,,2,,,Group stage
+2010,Greece,Argentina,0,,,2,,,Group stage
+2010,Portugal,Korea DPR,7,,,0,,,Group stage
+2010,Chile,Switzerland,1,,,0,,,Group stage
+2010,Spain,Honduras,2,,,0,,,Group stage
+2010,Slovakia,Paraguay,0,,,2,,,Group stage
+2010,Italy,New Zealand,1,,,1,,,Group stage
+2010,Brazil,Côte d'Ivoire,3,,,1,,,Group stage
+2010,Netherlands,Japan,1,,,0,,,Group stage
+2010,Ghana,Australia,1,,,1,,,Group stage
+2010,Cameroon,Denmark,1,,,2,,,Group stage
+2010,Germany,Serbia,0,,,1,,,Group stage
+2010,Slovenia,United States,2,,,2,,,Group stage
+2010,England,Algeria,0,,,0,,,Group stage
+2010,Argentina,Korea Republic,4,,,1,,,Group stage
+2010,Greece,Nigeria,2,,,1,,,Group stage
+2010,France,Mexico,0,,,2,,,Group stage
+2010,Honduras,Chile,0,,,1,,,Group stage
+2010,Spain,Switzerland,0,,,1,,,Group stage
+2010,South Africa,Uruguay,0,,,3,,,Group stage
+2010,New Zealand,Slovakia,1,,,1,,,Group stage
+2010,Côte d'Ivoire,Portugal,0,,,0,,,Group stage
+2010,Brazil,Korea DPR,2,,,1,,,Group stage
+2010,Netherlands,Denmark,2,,,0,,,Group stage
+2010,Japan,Cameroon,1,,,0,,,Group stage
+2010,Italy,Paraguay,1,,,1,,,Group stage
+2010,Algeria,Slovenia,0,,,1,,,Group stage
+2010,Serbia,Ghana,0,,,1,,,Group stage
+2010,Germany,Australia,4,,,0,,,Group stage
+2010,Korea Republic,Greece,2,,,0,,,Group stage
+2010,Argentina,Nigeria,1,,,0,,,Group stage
+2010,England,United States,1,,,1,,,Group stage
+2010,South Africa,Mexico,1,,,1,,,Group stage
+2010,Uruguay,France,0,,,0,,,Group stage
+2010,Italy,France,1,,5,1,,3,Final
+2010,Germany,Portugal,3,,,1,,,Third-place match
+2010,Portugal,France,0,,,1,,,Semi-finals
+2010,Germany,Italy,0,,,2,,,Semi-finals
+2010,England,Portugal,0,,1,0,,3,Quarter-finals
+2010,Brazil,France,0,,,1,,,Quarter-finals
+2010,Germany,Argentina,1,,4,1,,2,Quarter-finals
+2010,Italy,Ukraine,3,,,0,,,Quarter-finals
+2010,Brazil,Ghana,3,,,0,,,Round of 16
+2010,Spain,France,1,,,3,,,Round of 16
+2010,Italy,Australia,1,,,0,,,Round of 16
+2010,Switzerland,Ukraine,0,,0,0,,3,Round of 16
+2010,England,Ecuador,1,,,0,,,Round of 16
+2010,Portugal,Netherlands,1,,,0,,,Round of 16
+2010,Germany,Sweden,2,,,0,,,Round of 16
+2010,Argentina,Mexico,2,,,1,,,Round of 16
+2010,Saudi Arabia,Spain,0,,,1,,,Group stage
+2010,Ukraine,Tunisia,1,,,0,,,Group stage
+2010,Togo,France,0,,,2,,,Group stage
+2010,Switzerland,Korea Republic,2,,,0,,,Group stage
+2010,Ghana,United States,2,,,1,,,Group stage
+2010,Czech Republic,Italy,0,,,2,,,Group stage
+2010,Japan,Brazil,1,,,4,,,Group stage
+2010,Croatia,Australia,2,,,2,,,Group stage
+2010,Portugal,Mexico,2,,,1,,,Group stage
+2010,IR Iran,Angola,1,,,1,,,Group stage
+2010,Côte d'Ivoire,Serbia and Montenegro,3,,,2,,,Group stage
+2010,Netherlands,Argentina,0,,,0,,,Group stage
+2010,Costa Rica,Poland,1,,,2,,,Group stage
+2010,Ecuador,Germany,0,,,3,,,Group stage
+2010,Paraguay,Trinidad and Tobago,2,,,0,,,Group stage
+2010,Sweden,England,2,,,2,,,Group stage
+2010,Togo,Switzerland,0,,,2,,,Group stage
+2010,Saudi Arabia,Ukraine,0,,,4,,,Group stage
+2010,Spain,Tunisia,3,,,1,,,Group stage
+2010,Japan,Croatia,0,,,0,,,Group stage
+2010,Brazil,Australia,2,,,0,,,Group stage
+2010,France,Korea Republic,1,,,1,,,Group stage
+2010,Portugal,IR Iran,2,,,0,,,Group stage
+2010,Czech Republic,Ghana,0,,,2,,,Group stage
+2010,Italy,United States,1,,,1,,,Group stage
+2010,Argentina,Serbia and Montenegro,6,,,0,,,Group stage
+2010,Netherlands,Côte d'Ivoire,2,,,1,,,Group stage
+2010,Mexico,Angola,0,,,0,,,Group stage
+2010,Ecuador,Costa Rica,3,,,0,,,Group stage
+2010,England,Trinidad and Tobago,2,,,0,,,Group stage
+2010,Sweden,Paraguay,1,,,0,,,Group stage
+2010,Spain,Ukraine,4,,,0,,,Group stage
+2010,Tunisia,Saudi Arabia,2,,,2,,,Group stage
+2010,Germany,Poland,1,,,0,,,Group stage
+2010,Korea Republic,Togo,2,,,1,,,Group stage
+2010,France,Switzerland,0,,,0,,,Group stage
+2010,Brazil,Croatia,1,,,0,,,Group stage
+2010,Australia,Japan,3,,,1,,,Group stage
+2010,United States,Czech Republic,0,,,3,,,Group stage
+2010,Italy,Ghana,2,,,0,,,Group stage
+2010,Serbia and Montenegro,Netherlands,0,,,1,,,Group stage
+2010,Mexico,IR Iran,3,,,1,,,Group stage
+2010,Angola,Portugal,0,,,1,,,Group stage
+2010,England,Paraguay,1,,,0,,,Group stage
+2010,Trinidad and Tobago,Sweden,0,,,0,,,Group stage
+2010,Argentina,Côte d'Ivoire,2,,,1,,,Group stage
+2010,Germany,Costa Rica,4,,,2,,,Group stage
+2006,Poland,Ecuador,0,,,2,,,Group stage
+2006,Germany,Brazil,0,,,2,,,Final
+2006,Korea Republic,Türkiye,2,,,3,,,Third-place match
+2006,Brazil,Türkiye,1,,,0,,,Semi-finals
+2006,Germany,Korea Republic,1,,,0,,,Semi-finals
+2006,Spain,Korea Republic,0,,3,0,,5,Quarter-finals
+2006,Senegal,Türkiye,0,,,1,,,Quarter-finals
+2006,England,Brazil,1,,,2,,,Quarter-finals
+2006,Germany,United States,1,,,0,,,Quarter-finals
+2006,Japan,Türkiye,0,,,1,,,Round of 16
+2006,Korea Republic,Italy,2,,,1,,,Round of 16
+2006,Mexico,United States,0,,,2,,,Round of 16
+2006,Brazil,Belgium,2,,,0,,,Round of 16
+2006,Sweden,Senegal,1,,,2,,,Round of 16
+2006,Spain,Republic of Ireland,1,,3,1,,2,Round of 16
+2006,Germany,Paraguay,1,,,0,,,Round of 16
+2006,Denmark,England,0,,,3,,,Round of 16
+2006,Tunisia,Japan,0,,,2,,,Group stage
+2006,Belgium,Russia,3,,,2,,,Group stage
+2006,Portugal,Korea Republic,0,,,1,,,Group stage
+2006,Poland,United States,3,,,1,,,Group stage
+2006,Costa Rica,Brazil,2,,,5,,,Group stage
+2006,Türkiye,China PR,3,,,0,,,Group stage
+2006,Mexico,Italy,1,,,1,,,Group stage
+2006,Ecuador,Croatia,1,,,0,,,Group stage
+2006,Sweden,Argentina,1,,,1,,,Group stage
+2006,Nigeria,England,0,,,0,,,Group stage
+2006,South Africa,Spain,2,,,3,,,Group stage
+2006,Slovenia,Paraguay,1,,,3,,,Group stage
+2006,Denmark,France,2,,,0,,,Group stage
+2006,Senegal,Uruguay,3,,,3,,,Group stage
+2006,Saudi Arabia,Republic of Ireland,0,,,3,,,Group stage
+2006,Cameroon,Germany,0,,,2,,,Group stage
+2006,Korea Republic,United States,1,,,1,,,Group stage
+2006,Tunisia,Belgium,1,,,1,,,Group stage
+2006,Portugal,Poland,4,,,0,,,Group stage
+2006,Mexico,Ecuador,2,,,1,,,Group stage
+2006,Costa Rica,Türkiye,1,,,1,,,Group stage
+2006,Japan,Russia,1,,,0,,,Group stage
+2006,South Africa,Slovenia,1,,,0,,,Group stage
+2006,Italy,Croatia,1,,,2,,,Group stage
+2006,Brazil,China PR,4,,,0,,,Group stage
+2006,Sweden,Nigeria,2,,,1,,,Group stage
+2006,Spain,Paraguay,3,,,1,,,Group stage
+2006,Argentina,England,0,,,1,,,Group stage
+2006,Denmark,Senegal,1,,,1,,,Group stage
+2006,Cameroon,Saudi Arabia,1,,,0,,,Group stage
+2006,France,Uruguay,0,,,0,,,Group stage
+2006,Russia,Tunisia,2,,,0,,,Group stage
+2006,United States,Portugal,3,,,2,,,Group stage
+2006,Germany,Republic of Ireland,1,,,1,,,Group stage
+2006,China PR,Costa Rica,0,,,2,,,Group stage
+2006,Japan,Belgium,2,,,2,,,Group stage
+2006,Korea Republic,Poland,2,,,0,,,Group stage
+2006,Croatia,Mexico,0,,,1,,,Group stage
+2006,Brazil,Türkiye,2,,,1,,,Group stage
+2006,Italy,Ecuador,2,,,0,,,Group stage
+2006,Argentina,Nigeria,1,,,0,,,Group stage
+2006,Paraguay,South Africa,2,,,2,,,Group stage
+2006,England,Sweden,1,,,1,,,Group stage
+2006,Spain,Slovenia,3,,,1,,,Group stage
+2006,Republic of Ireland,Cameroon,1,,,1,,,Group stage
+2006,Uruguay,Denmark,1,,,2,,,Group stage
+2006,Germany,Saudi Arabia,8,,,0,,,Group stage
+2006,France,Senegal,0,,,1,,,Group stage
+2006,Brazil,France,0,,,3,,,Final
+2006,Netherlands,Croatia,1,,,2,,,Third-place match
+2006,France,Croatia,2,,,1,,,Semi-finals
+2006,Brazil,Netherlands,1,,4,1,,2,Semi-finals
+2006,Netherlands,Argentina,2,,,1,,,Quarter-finals
+2006,Germany,Croatia,0,,,3,,,Quarter-finals
+2006,Italy,France,0,,3,0,,4,Quarter-finals
+2006,Brazil,Denmark,3,,,2,,,Quarter-finals
+2006,Romania,Croatia,0,,,1,,,Round of 16
+2006,Argentina,England,2,,4,2,,3,Round of 16
+2006,Germany,Mexico,2,,,1,,,Round of 16
+2006,Netherlands,FR Yugoslavia,2,,,1,,,Round of 16
+2006,France,Paraguay,1,,,0,,,Round of 16
+2006,Nigeria,Denmark,1,,,4,,,Round of 16
+2006,Italy,Norway,1,,,0,,,Round of 16
+2006,Brazil,Chile,4,,,1,,,Round of 16
+2006,Argentina,Croatia,1,,,0,,,Group stage
+2006,Japan,Jamaica,1,,,2,,,Group stage
+2006,Romania,Tunisia,1,,,1,,,Group stage
+2006,Colombia,England,0,,,2,,,Group stage
+2006,Netherlands,Mexico,2,,,2,,,Group stage
+2006,Belgium,Korea Republic,1,,,1,,,Group stage
+2006,United States,FR Yugoslavia,0,,,1,,,Group stage
+2006,Germany,IR Iran,2,,,0,,,Group stage
+2006,South Africa,Saudi Arabia,2,,,2,,,Group stage
+2006,France,Denmark,2,,,1,,,Group stage
+2006,Spain,Bulgaria,6,,,1,,,Group stage
+2006,Nigeria,Paraguay,1,,,3,,,Group stage
+2006,Italy,Austria,2,,,1,,,Group stage
+2006,Chile,Cameroon,1,,,1,,,Group stage
+2006,Brazil,Norway,1,,,2,,,Group stage
+2006,Scotland,Morocco,0,,,3,,,Group stage
+2006,Colombia,Tunisia,1,,,0,,,Group stage
+2006,Romania,England,2,,,1,,,Group stage
+2006,Germany,FR Yugoslavia,2,,,2,,,Group stage
+2006,Argentina,Jamaica,5,,,0,,,Group stage
+2006,United States,IR Iran,1,,,2,,,Group stage
+2006,Japan,Croatia,0,,,1,,,Group stage
+2006,Belgium,Mexico,2,,,2,,,Group stage
+2006,Netherlands,Korea Republic,5,,,0,,,Group stage
+2006,Nigeria,Bulgaria,1,,,0,,,Group stage
+2006,Spain,Paraguay,0,,,0,,,Group stage
+2006,South Africa,Denmark,1,,,1,,,Group stage
+2006,France,Saudi Arabia,4,,,0,,,Group stage
+2006,Chile,Austria,1,,,1,,,Group stage
+2006,Italy,Cameroon,3,,,0,,,Group stage
+2006,Scotland,Norway,1,,,1,,,Group stage
+2006,Brazil,Morocco,3,,,0,,,Group stage
+2006,England,Tunisia,2,,,0,,,Group stage
+2006,Romania,Colombia,1,,,0,,,Group stage
+2006,Germany,United States,2,,,0,,,Group stage
+2006,Argentina,Japan,1,,,0,,,Group stage
+2006,FR Yugoslavia,IR Iran,1,,,0,,,Group stage
+2006,Jamaica,Croatia,1,,,3,,,Group stage
+2006,Spain,Nigeria,2,,,3,,,Group stage
+2006,Korea Republic,Mexico,1,,,3,,,Group stage
+2006,Netherlands,Belgium,0,,,0,,,Group stage
+2006,Paraguay,Bulgaria,0,,,0,,,Group stage
+2006,Saudi Arabia,Denmark,0,,,1,,,Group stage
+2006,France,South Africa,3,,,0,,,Group stage
+2006,Italy,Chile,2,,,2,,,Group stage
+2006,Cameroon,Austria,1,,,1,,,Group stage
+2006,Brazil,Scotland,2,,,1,,,Group stage
+2006,Morocco,Norway,2,,,2,,,Group stage
+2002,Brazil,Italy,0,,3,0,,2,Final
+2002,Sweden,Bulgaria,4,,,0,,,Third-place match
+2002,Bulgaria,Italy,1,,,2,,,Semi-finals
+2002,Sweden,Brazil,0,,,1,,,Semi-finals
+2002,Bulgaria,Germany,2,,,1,,,Quarter-finals
+2002,Romania,Sweden,2,,4,2,,5,Quarter-finals
+2002,Italy,Spain,2,,,1,,,Quarter-finals
+2002,Netherlands,Brazil,2,,,3,,,Quarter-finals
+2002,Nigeria,Italy,1,,,2,,,Round of 16
+2002,Mexico,Bulgaria,1,,1,1,,3,Round of 16
+2002,Netherlands,Republic of Ireland,2,,,0,,,Round of 16
+2002,Brazil,United States,1,,,0,,,Round of 16
+2002,Saudi Arabia,Sweden,1,,,3,,,Round of 16
+2002,Romania,Argentina,3,,,2,,,Round of 16
+2002,Germany,Belgium,3,,,2,,,Round of 16
+2002,Spain,Switzerland,3,,,0,,,Round of 16
+2002,Greece,Nigeria,0,,,2,,,Group stage
+2002,Argentina,Bulgaria,0,,,2,,,Group stage
+2002,Morocco,Netherlands,1,,,2,,,Group stage
+2002,Belgium,Saudi Arabia,0,,,1,,,Group stage
+2002,Italy,Mexico,1,,,1,,,Group stage
+2002,Republic of Ireland,Norway,0,,,0,,,Group stage
+2002,Russia,Cameroon,6,,,1,,,Group stage
+2002,Brazil,Sweden,1,,,1,,,Group stage
+2002,Germany,Korea Republic,3,,,2,,,Group stage
+2002,Bolivia,Spain,1,,,3,,,Group stage
+2002,Bulgaria,Greece,4,,,0,,,Group stage
+2002,United States,Romania,0,,,1,,,Group stage
+2002,Switzerland,Colombia,0,,,2,,,Group stage
+2002,Belgium,Netherlands,1,,,0,,,Group stage
+2002,Saudi Arabia,Morocco,2,,,1,,,Group stage
+2002,Argentina,Nigeria,2,,,1,,,Group stage
+2002,Mexico,Republic of Ireland,2,,,1,,,Group stage
+2002,Brazil,Cameroon,3,,,0,,,Group stage
+2002,Sweden,Russia,3,,,1,,,Group stage
+2002,Italy,Norway,1,,,0,,,Group stage
+2002,Korea Republic,Bolivia,0,,,0,,,Group stage
+2002,Romania,Switzerland,1,,,4,,,Group stage
+2002,United States,Colombia,2,,,1,,,Group stage
+2002,Argentina,Greece,4,,,0,,,Group stage
+2002,Germany,Spain,1,,,1,,,Group stage
+2002,Nigeria,Bulgaria,3,,,0,,,Group stage
+2002,Brazil,Russia,2,,,0,,,Group stage
+2002,Netherlands,Saudi Arabia,2,,,1,,,Group stage
+2002,Belgium,Morocco,1,,,0,,,Group stage
+2002,Norway,Mexico,1,,,0,,,Group stage
+2002,Cameroon,Sweden,2,,,2,,,Group stage
+2002,United States,Switzerland,1,,,1,,,Group stage
+2002,Italy,Republic of Ireland,0,,,1,,,Group stage
+2002,Colombia,Romania,1,,,3,,,Group stage
+2002,Germany,Bolivia,1,,,0,,,Group stage
+2002,Spain,Korea Republic,2,,,2,,,Group stage
+2002,West Germany,Argentina,1,,,0,,,Final
+2002,Italy,England,2,,,1,,,Third-place match
+2002,West Germany,England,1,,4,1,,3,Semi-finals
+2002,Italy,Argentina,1,,3,1,,4,Semi-finals
+2002,West Germany,Czechoslovakia,1,,,0,,,Quarter-finals
+2002,England,Cameroon,3,,,2,,,Quarter-finals
+2002,Yugoslavia,Argentina,0,,2,0,,3,Quarter-finals
+2002,Italy,Republic of Ireland,1,,,0,,,Quarter-finals
+2002,Spain,Yugoslavia,1,,,2,,,Round of 16
+2002,England,Belgium,1,,,0,,,Round of 16
+2002,Republic of Ireland,Romania,0,,5,0,,4,Round of 16
+2002,Italy,Uruguay,2,,,0,,,Round of 16
+2002,Brazil,Argentina,0,,,1,,,Round of 16
+2002,West Germany,Netherlands,2,,,1,,,Round of 16
+2002,Cameroon,Colombia,2,,,1,,,Round of 16
+2002,Czechoslovakia,Costa Rica,4,,,1,,,Round of 16
+2002,Belgium,Spain,1,,,2,,,Group stage
+2002,Korea Republic,Uruguay,0,,,1,,,Group stage
+2002,Republic of Ireland,Netherlands,1,,,1,,,Group stage
+2002,England,Egypt,1,,,0,,,Group stage
+2002,Sweden,Costa Rica,1,,,2,,,Group stage
+2002,Brazil,Scotland,1,,,0,,,Group stage
+2002,West Germany,Colombia,1,,,1,,,Group stage
+2002,Yugoslavia,United Arab Emirates,4,,,1,,,Group stage
+2002,Austria,United States,2,,,1,,,Group stage
+2002,Italy,Czechoslovakia,2,,,0,,,Group stage
+2002,Argentina,Romania,1,,,1,,,Group stage
+2002,Cameroon,Soviet Union,0,,,4,,,Group stage
+2002,Republic of Ireland,Egypt,0,,,0,,,Group stage
+2002,Belgium,Uruguay,3,,,1,,,Group stage
+2002,Korea Republic,Spain,1,,,3,,,Group stage
+2002,Brazil,Costa Rica,1,,,0,,,Group stage
+2002,England,Netherlands,0,,,0,,,Group stage
+2002,Sweden,Scotland,1,,,2,,,Group stage
+2002,Austria,Czechoslovakia,0,,,1,,,Group stage
+2002,West Germany,United Arab Emirates,5,,,1,,,Group stage
+2002,Yugoslavia,Colombia,1,,,0,,,Group stage
+2002,Cameroon,Romania,2,,,1,,,Group stage
+2002,Italy,United States,1,,,0,,,Group stage
+2002,Uruguay,Spain,0,,,0,,,Group stage
+2002,Argentina,Soviet Union,2,,,0,,,Group stage
+2002,Belgium,Korea Republic,2,,,0,,,Group stage
+2002,Netherlands,Egypt,1,,,1,,,Group stage
+2002,Costa Rica,Scotland,1,,,0,,,Group stage
+2002,England,Republic of Ireland,1,,,1,,,Group stage
+2002,United States,Czechoslovakia,1,,,5,,,Group stage
+2002,West Germany,Yugoslavia,4,,,1,,,Group stage
+2002,Brazil,Sweden,2,,,1,,,Group stage
+2002,United Arab Emirates,Colombia,0,,,2,,,Group stage
+2002,Soviet Union,Romania,0,,,2,,,Group stage
+2002,Italy,Austria,1,,,0,,,Group stage
+2002,Argentina,Cameroon,0,,,1,,,Group stage
