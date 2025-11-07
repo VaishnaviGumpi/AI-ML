@@ -1,0 +1,49 @@
+Team,Source,Avg_Squad_Age,Avg_International_Caps,Win_Rate_%,FIFA_Ranking_Oct_2025,Recent_Form,lr_prob,rf_prob,ensemble_prob
+Canada,Confirmed,26.5,42.5,52.3,48,Improving,,,
+Mexico,Confirmed,27.2,38.2,49.8,14,Consistent,,,
+United States,Confirmed,26.1,45.8,48.5,27,Mixed,,,
+Japan,Confirmed,28,38.5,58.2,24,Strong,,,
+Iran,Confirmed,27.5,35.2,42.3,18,Decent,,,
+Uzbekistan,Confirmed,26.8,22.5,61.5,82,Very Strong,,,
+South Korea,Confirmed,27.3,48.3,55.8,19,Strong,,,
+Jordan,Confirmed,27,18.5,35.2,79,Weak,,,
+Australia,Confirmed,27.8,44.2,52.1,29,Good,,,
+Qatar,Confirmed,27.2,25.3,38.5,50,Weak,,,
+Saudi Arabia,Confirmed,26.9,32.1,42.8,51,Mixed,,,
+Morocco,Confirmed,27,46.2,54.6,12,Strong,,,
+Tunisia,Confirmed,26.8,41.5,48.2,42,Good,,,
+Egypt,Confirmed,27.5,39.8,39.5,37,Mixed,,,
+Algeria,Confirmed,27.2,43.5,42.3,30,Good,,,
+Ghana,Confirmed,26.5,28.4,45.8,61,Mixed,,,
+Cape Verde,Confirmed,25.8,8.5,52.1,145,"Strong (New)",,,
+South Africa,Confirmed,27.4,37.6,46.3,74,Decent,,,
+Ivory Coast,Confirmed,27.1,42.1,49.5,49,Good,,,
+Senegal,Confirmed,26.9,35.4,51.3,18,Strong,,,
+Argentina,Confirmed,28.3,62.3,68.5,2,Very Strong,,,
+Brazil,Confirmed,27.9,54.8,62.3,7,Strong,,,
+Ecuador,Confirmed,26.5,48.2,55.2,44,Good,,,
+Uruguay,Confirmed,28.1,59.4,54.8,15,Very Strong,,,
+Paraguay,Confirmed,27.4,44.6,48.3,68,Decent,,,
+Colombia,Confirmed,27.6,51.2,52.6,47,Strong,,,
+New Zealand,Confirmed,27.3,36.8,40.2,39,Weak,,,
+England,Confirmed,26.8,52.4,58.3,4,Very Strong,,,
+France,Predicted,,,,,,,0.9960762859170451,0.9491527891520294,0.9726145375345372
+Germany,Predicted,,,,,,,0.9964824820689039,0.9486389597758507,0.9725607209223772
+Netherlands,Predicted,,,,,,,0.9800611096498235,0.9497338038711289,0.9648974567604762
+Italy,Predicted,,,,,,,0.9750448685739257,0.9399472665386059,0.9574960675562658
+Croatia,Predicted,,,,,,,0.9491410547653989,0.9259784527463356,0.9375597537558673
+Spain,Predicted,,,,,,,0.7952430719961724,0.9383244320497649,0.8667837520229686
+Belgium,Predicted,,,,,,,0.6293249879385737,0.937011996156663,0.7831684920476183
+Portugal,Predicted,,,,,,,0.6064632056076126,0.9331412471963322,0.7698022264019724
+West Germany,Predicted,,,,,,,0.5595666128487586,0.8469881826303222,0.7032773977395403
+Sweden,Predicted,,,,,,,0.5347012759749022,0.8681293853240923,0.7014153306494972
+Türkiye,Predicted,,,,,,,0.42436033159622344,0.8488000041364616,0.6365801678663425
+Korea Republic,Predicted,,,,,,,0.448279681671774,0.7012137323609405,0.5747467070163572
+Bulgaria,Predicted,,,,,,,0.2988179328143974,0.6232439188001593,0.46103092580727834
+Czechoslovakia,Predicted,,,,,,,0.2138719045395643,0.15725608473993205,0.18556399463974818
+Romania,Predicted,,,,,,,0.18630274230728203,0.11388650923352361,0.15009462577040283
+Yugoslavia,Predicted,,,,,,,0.17493098817932692,0.10214870407857708,0.138539846128952
+Denmark,Predicted,,,,,,,0.17955413594768307,0.059368854926322046,0.11946149543700256
+Russia,Predicted,,,,,,,0.16449292360514858,0.06837499981505675,0.11643396171010267
+Switzerland,Predicted,,,,,,,0.16269990292114114,0.06777838154199252,0.11523914223156684
+Cameroon,Predicted,,,,,,,0.14765816662414877,0.07982984982027701,0.1137440082222129
